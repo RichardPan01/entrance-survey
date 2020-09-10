@@ -1,0 +1,21 @@
+---
+title: "workout1"
+author: "Yucheng Pan"
+date: "2020/9/10"
+output: html_document
+---
+
+```{r}
+DF <- read.csv("hudk4050-entrance-survey.csv", header = TRUE)
+mode(DF$UTC)
+```
+```{r}
+x <- 1
+mode(x)
+```
+```{r}
+mean(DF$UTC)
+
+DF$UTC.ms <- 
+```
+
