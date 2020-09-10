@@ -15,7 +15,5 @@ mode(x)
 ```
 ```{r}
 mean(DF$UTC)
-
-DF$UTC.ms <- 
 ```
 
